@@ -1,6 +1,29 @@
-# Getting Started with Create React App
+# About the App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Remembrance App is a Social Media app capable of storing a memory of an important moment and share it with other users
+
+# Considerations
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was made with old libraries that are now possibly deprecated. Therefore, I encourage to read the documentation of those libraries that may have been deprecated and learn how to implement the same features seen in this app.
+
+## Dependencies 
+- MUI Core v4.9.10
+- MUI Icons v4.9.1
+- MUI Lab 4.0.0-alpha.58
+- Jest v4.2.4
+- Axios v0.19.2
+- JWT Decode v3.1.2
+- MUI chip-input v1.1.0
+- Moment v2.27.0
+- React v16.12.0
+- React DOM v16.12.0
+- React File Base v1.0.3
+- React Google Login: v5.1.25
+- React Redux v7.1.3
+- React Router DOM v5.2.0
+- Redux v4.0.5
+- Redux Thunk v2.3.0
+
 
 ## Available Scripts
 
@@ -14,11 +37,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -29,42 +47,8 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

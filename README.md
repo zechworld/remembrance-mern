@@ -3,6 +3,7 @@
 This project was made using the MERN Stack. The main purpose of this project is to practice the use of different technologies and concepts. 
 Some of the concepts seen through out this repository are:
 
+- Material UI (v4)
 - RESTful API
 - Redux
 - Authentication (JWT)
